@@ -6,7 +6,7 @@ defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 hasCJKLanguage = true
 
-summaryLength = 70
+summaryLength = 40
 buildFuture = true
 
 copyright = "&copy;{year},TEEAARBEE All Rights Reserved"

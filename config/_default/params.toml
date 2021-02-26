@@ -4,7 +4,7 @@ description = "I am best known for uploading what people call Meme videos on the
 custom_css = []
 custom_js = []
 useFaviconGenerator = true # https://www.favicon-generator.org/
-meta_image = ""
+meta_image = "https://blog-hugo-silk.vercel.app/images/whoami/avatar.jpg"
 themecolor = ""
 
 themeOptions = ["dark", "light", "hacker", "solarized", "kimbie"]
@@ -201,6 +201,8 @@ commento = false
   username = ""
 [[share]]
   name = "twitter"
+[[share]]
+  name = "reddit"
 
 [[footerLinks]]
   name = ""
