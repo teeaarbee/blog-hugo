@@ -1,10 +1,10 @@
 ---
-title: "Week 32 – Got a Kindle 📖 "
+title: "Week 32"
 date: 2021-02-07T10:33:41+09:00
 description: "This week was a bit of a downer."
 draft: false
-enableToc: false
-enableTocContent: false
+enableToc: true
+enableTocContent: true
 tags:
 - Weekly Blogs 
 - Recommendations 
@@ -15,6 +15,7 @@ categories:
 image: images/feature1/mykindle.jpeg
 ---
 
+## Got a Kindle 📖 
 ![kindle](../../../images/feature1/mykindle.jpeg)
 
 This week was a bit of a downer. 

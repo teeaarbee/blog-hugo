@@ -51,3 +51,6 @@ googleAnalytics = ""
   category = "categories"
   tag = "tags"
   series = "series"
+
+ [permalinks]
+  posts = "archives/:title" 

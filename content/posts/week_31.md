@@ -1,12 +1,16 @@
 ---
-title: Week 31 – Bought Crypto for the First time 
+title: Week 31
 date: "2021-01-31"
-cover: '../static/images/dogepre.jpg'
+image: images/dogepre.jpg
+description: "Bought Crypto for the First time"
 category: Weekly Highlights
 tags:
   - Weekly Blogs 
   - Recommendations 
 ---
+
+![dogepre.jpg](../../../images/dogepre.jpg)
+
 What a nice date for the month to end on!
 
 Unfortunately, I wont be able to write a nice blog as I am in but of a hurry and its already v late.

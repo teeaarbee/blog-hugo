@@ -1,5 +1,5 @@
 ---
-title: Week 1 - On Turning 22, Tech and Few Recommendations 
+title: Week-1 
 date: "2020-06-24"
 cover: '../static/images/22-apartment-architecture-building-210790.jpg'
 category: Weekly Highlights
@@ -8,7 +8,9 @@ tags:
   - Recommendations 
 ---
 
-First Weekly Blog
+## First Weekly Blog
+
+On Turning 22, Tech and Few Recommendations
 
 I am testing out the weekly blog format so expect something like this to be delivered every week.
 
