@@ -97,9 +97,6 @@ Damn even this suffered my work ka bojh which is kinda sad because I had started
 
 ![image](https://i.imgur.com/DZsH0ti.png)
 
-<img src="https://i.imgur.com/DZsH0ti.png" alt="keyboard32" style="
-max-width: 600px;width: 100%; height: auto; display: block; margin: 10px 0;" >
-
 -	**SLEEP UPDATE**
 
 This was better compared to other things I mean I slept for almost 7:30 – 8:00 hours almost everyday. But my timing got messed up by a bit.
@@ -233,9 +230,13 @@ https://youtu.be/eK1fXca3-qQ
 This was I think the first matt dievela podcast that I listened to and I like his style and how he kept things to the point.
 ### Quotes from the week📃
 
-https://twitter.com/visualizevalue/status/1357705406773141509
 
-https://twitter.com/ShaneAParrish/status/1356979505596932098
+{{< tweet 1357705406773141509 >}}
+
+<br><br>
+
+{{< tweet 1356979505596932098 >}}
+
 
 ### Top Memes/Edits from the last week 🐒
 
