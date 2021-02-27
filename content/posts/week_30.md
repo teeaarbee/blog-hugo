@@ -1,6 +1,7 @@
 ---
-title: Week 30 – Mini social media detox review  
+title: Week 30 
 date: "2021-01-24"
+description: "Mini social media detox review"
 cover: '../static/images/pexels-energepiccom-174938.jpg'
 category: Weekly Highlights
 tags:
