@@ -5,7 +5,7 @@ date: 2021-02-27T12:00:06+09:00
 description: "TRB blogs back again"
 draft: true
 hideToc: false
-enableToc: true
+enableToc: false
 enableTocContent: false
 author: rohit
 authorEmoji: 👻
