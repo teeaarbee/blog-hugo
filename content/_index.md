@@ -25,7 +25,7 @@ header:
     paddingY: 0
     align: center
     title:
-      - WELCOME TO TRB BLOG 3.0
+      - WELCOME TO TRB'S BLOG 3.0
     subtitle:
       - Feel free to explore but remember the site is still under construction 
     titleColor: 
