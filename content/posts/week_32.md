@@ -1,7 +1,7 @@
 ---
 title: "Week 32"
 date: 2021-02-07T10:33:41+09:00
-description: "This week was a bit of a downer."
+description: "Got a Kindle 📖"
 draft: false
 enableToc: true
 enableTocContent: true
@@ -95,6 +95,8 @@ That too with such long gap😭
 
 Damn even this suffered my work ka bojh which is kinda sad because I had started enjoying playing keyboard😔
 
+![image](https://i.imgur.com/DZsH0ti.png)
+
 <img src="https://i.imgur.com/DZsH0ti.png" alt="keyboard32" style="
 max-width: 600px;width: 100%; height: auto; display: block; margin: 10px 0;" >
 
@@ -143,11 +145,14 @@ And those same people can use those skills along with a few new skills to kickst
 
 *Hence, yer mum gay.* 
 
-##Opinions 
+## Opinions 
 
 Oh damn I was going to write about the fact that how I don’t know anything about the rihana twitter thing and how I have successfully managed to keep myself away from all those and how not giving a shit about it is the best thing one could do 
 
 But then fucking Sikandar returned after 6 fucking years 😭😭
+
+
+{{< youtube _CW2N50BSPg >}}
 
 https://youtu.be/_CW2N50BSPg?list=LL
 
@@ -164,7 +169,7 @@ I think I had an idea but had no time or energy left to execute.
 Included the #work section above.
 <br>Not really a major thingy tho as I was sharing my work update before this anyway, it was just not set under any category but now it is.
 
-##My Favourites from the Week 
+## My Favourites from the Week 
 ### Blog/Articles 📑
 
 Was busy reading books so didn’t get time to read any blog/article.

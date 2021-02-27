@@ -63,10 +63,10 @@ Which is a great news for me as I getting my first ever kindle tomorrow 🤩
 
 I would have postponed this blog if it wasn’t for the kindle and the fact that today is the last day of the month.
 
-##Thoughts from the past week
+## Thoughts from the past week
 I cant seem to remember! Don’t have time now, go through my twitter instead.
 
-##Opinions 
+## Opinions 
 Kids should not be taught coding at a very young age. 
 
 ##Social Media updates 
@@ -92,17 +92,17 @@ Oh btw I kept getting dms asking me the name of the app, its an app called [Coin
 Signup on CoinSwitch Kuber using my referral and first 3 users will get Rs. 50 worth FREE BTC. Link expires in 24 hours https://coinswitch.co/in/refer?tag=YHYx
 Use my referral maybe, if 3 people sign up using this then I ll be able to make my lost money back 😋 XD
 
-##How I made my blogs better
+## How I made my blogs better
 I did not do anything for the blogs this week ☹ Maybe next week I ll do some cool black magic.
 
-##My Favourites from the Week 
-###Blog/Articles 📑
+## My Favourites from the Week 
+### Blog/Articles 📑
 
 [5 Metaskills That Will Make You Superhuman](https://bit.ly/2YubqR8)
 
 [The Scary Future Of Instagram](https://bit.ly/3j25b0q)
 
-###VIDEOS 📺
+### VIDEOS 📺
 https://youtu.be/qSpuilb8vJQ?list=LL
 
 https://youtu.be/KTABK8Il4Ko?list=LL
@@ -119,14 +119,15 @@ https://youtu.be/cpw4Cg3Gpx8?list=LL
 
 https://youtu.be/J1jlol6Vev4?list=LL
 
-###Apps 📱 
+### Apps 📱 
 > [Coinswitch](https://coinswitch.co/in/refer?tag=YHYx) 
 
 CoinSwitch Kuber using my referral and first 3 users will get Rs. 50 worth FREE BTC. Link expires in 24 hours https://coinswitch.co/in/refer?tag=YHYx
 
 Not sponsored ofc but yes it’s an affiliate link
 <br>
-###Songs 🎶
+
+### Songs 🎶
 
 <iframe src="https://open.spotify.com/embed/track/21hMVbjurJsnekUoriKMFb" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 <br><br>
@@ -134,24 +135,24 @@ Not sponsored ofc but yes it’s an affiliate link
 <br><br>
 <iframe src="https://open.spotify.com/embed/track/5arambGXhSW6TZUR9L0tSw" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-###Podcast 🎙
+### Podcast 🎙
 
 https://youtu.be/D2aQTHZPhMo?list=LL
 
-###Quotes from the week📃
+### Quotes from the week📃
 
 *“If you let your learning lead to knowledge, you become a fool. If you let your learning lead to action, you become wealthy.”—Jim Rohn*
 
 Came across this quote while listening to [Tools of Titans](https://amzn.to/2K5MUm2)
 
-###Top Memes/Edits from the last week 🐒
+### Top Memes/Edits from the last week 🐒
 
 Its already v late no time to add memes now 🥶
 
 Will update it here later on
 
 ----
-##Goal(s) for the next week 🥅
+## Goal(s) for the next week 🥅
 
 Biggest goal of the next week/ Month is what was supposed to my NewYear res. Kinda thingy
 
