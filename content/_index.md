@@ -25,9 +25,9 @@ header:
     paddingY: 0
     align: center
     title:
-      - TEEAARBEE
+      - WELCOME TRB BLOG 3.0
     subtitle:
-      - Every action you take is a vote for the type of person you wish to become - James clear
+      - Feel free to explore and ready whatever you want!
     titleColor: 
     titleShadow: true
     titleFontSize: 44
