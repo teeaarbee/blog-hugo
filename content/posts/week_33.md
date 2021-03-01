@@ -35,9 +35,6 @@ I would have shared the link to this template but I want everyone to make their 
 
 Read a bit less than last week because I got a new phone this week and I was busy with that XD
 
-<img src="link" alt="caption" style="
-max-width: 600px;width: 100%; height: auto; display: block; margin: 10px 0;" >
-
 Also about to finish tools of titan audiobook. Might as well share a bit from it in the coming blogs.
 
 -	**MEDITATION UPDATE**
@@ -51,25 +48,19 @@ Haha! Need to bring it back somehow let me see what I can do.
 Frequency was like last week only but I had installed rescuetime from my old phone so there is no data available. I hope it starts tracking the data again and hopefully it will be back next week.
 
 
-
 -	**FITNESS UPDATE**
 
 Same as last week :(( 
-
-<img src="link" alt="caption" style="
-max-width: 600px;width: 100%; height: auto; display: block; margin: 10px 0;" >
 
 
 -	**SLEEP UPDATE**
 
 Main reason why my run was affected this week is because I went to bed bit late and so didn’t wake up in time.
 
-<img src="link" alt="caption" style="
-max-width: 600px;width: 100%; height: auto; display: block; margin: 10px 0;" >
-
 I have been getting a full proper sleep but I need to fix the timing.
 
 -	-**WORK UPDATE**
+
 So like I said there was comparatively less work this week 😌
 
 So there isn’t much to write about it but compared to last week I did improve my timing of delivery by a bit. 
@@ -77,8 +68,6 @@ So there isn’t much to write about it but compared to last week I did improve 
 Also I started planning my day via daily checklist on notion and it has been quite helpful too this week.
 Here’s my format:
 
-<img src="link" alt="caption" style="
-max-width: 600px;width: 100%; height: auto; display: block; margin: 10px 0;" >
 
 ----
 

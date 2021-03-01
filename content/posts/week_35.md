@@ -73,7 +73,8 @@ Will share a few next week.
 best video of the week
 
  {{< youtube 6y7Dsqqsc38 >}}
-###Apps 📱 
+ 
+### Apps 📱 
 > [Revue](https://bit.ly/3r7iMXI)
 
 I started using this recently for sending emails but I have known their name for a while because ali abdaal uses the same email client to send his Sunday snippets 😌
