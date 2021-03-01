@@ -54,26 +54,39 @@ Well changed everything and started a email sending system using revue.
 
 ## My Favourites from the Week 
 ### Blog/Articles 📑
+
 Didn’t finish any article :( 
 Will share a few next week.
+
 ### VIDEOS 📺
-{{< youtube AU1JTL-LjOA >}}
+ {{< youtube AU1JTL-LjOA >}}
+
  {{< youtube P7JOvPCl35I >}}
+
  {{< youtube rUy28SpSEvs >}}
+
  {{< youtube pJe8sfrCkp4 >}}
+
  {{< youtube nzjLPa9blZc >}}
+
  {{< youtube gHrVkuHrfOE >}}
+
  {{< youtube 2Vnk43dYJtg >}}
+
  {{< youtube jUTdeKJ4r-M >}}
+
  {{< youtube xzE0Pc_vJe4 >}}
+
  {{< youtube EQt-ePFZRPo >}}
+
  {{< youtube 5YyE-5N-djU >}}
+
  {{< youtube fxmLD8y0RNQ >}}
 
-best video of the week
+Best video of the week
 
  {{< youtube 6y7Dsqqsc38 >}}
- 
+
 ### Apps 📱 
 > [Revue](https://bit.ly/3r7iMXI)
 
