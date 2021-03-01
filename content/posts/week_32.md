@@ -151,7 +151,6 @@ But then fucking Sikandar returned after 6 fucking years 😭😭
 
 {{< youtube _CW2N50BSPg >}}
 
-https://youtu.be/_CW2N50BSPg?list=LL
 
 Bruh how could I not watch his video 🤧😍
 
@@ -173,19 +172,19 @@ Was busy reading books so didn’t get time to read any blog/article.
 
 ### VIDEOS 📺
 
-https://youtu.be/vyVpRiqOvt4?list=LL
+{{< youtube vyVpRiqOvt4 >}}
 
-https://youtu.be/uWZNUN9YHQo?list=LL
+{{< youtube uWZNUN9YHQo >}}
 
-https://youtu.be/Jzfpyo-q-RM?list=LL
+{{< youtube Jzfpyo-q-RM >}}
 
-https://youtu.be/oZEOHY9FWBw?list=LL
+{{< youtube oZEOHY9FWBw >}}
 
-https://youtu.be/gUWz6-ypQM0?list=LL
+{{< youtube gUWz6-ypQM0 >}}
 
-https://youtu.be/PNhonR5AHMA?list=LL
+{{< youtube PNhonR5AHMA >}}
 
-https://youtu.be/bVG2OQp6jEQ?list=LL
+{{< youtube bVG2OQp6jEQ >}}
 
 ### Creators 🤹🏻
 
@@ -196,7 +195,7 @@ max-width: 600px;width: 100%; height: auto; display: block; margin: 10px 0;" >
 
 I have been listening to his music for over 2 years now. Thanks to smmn (one man succ) for recommending it to me, back in the days.
 
-https://youtu.be/sRBRUAHHDeA
+{{< youtube sRBRUAHHDeA >}}
 
 But I recently watched / listened to this podcast and came to know that he is almost of my age and the guy hosting the podcast is a lot younger to me damn idk it just felt like …. idk
 
@@ -211,7 +210,8 @@ But I recently watched / listened to this podcast and came to know that he is al
 
 Installed these 3 softwares on my pc today after watching this video:
 
-https://youtu.be/pOmkEzgU9ik?list=LL
+{{< youtube pOmkEzgU9ik >}}
+
 
 Recommend y'all to check this out.
 
@@ -219,17 +219,18 @@ Recommend y'all to check this out.
 
 <iframe src="https://open.spotify.com/embed/track/7LmHkGqVkr6cMPhA8J5dmn" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
+
 <iframe src="https://open.spotify.com/embed/track/1WfcVgyKPrwdQ3Gi7abQBU" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
 
 <iframe src="https://open.spotify.com/embed/track/37Tmv4NnfQeb0ZgUC4fOJj" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 ### Podcast 🎙
 
-https://youtu.be/eK1fXca3-qQ
+{{< youtube eK1fXca3-qQ >}}
 
 This was I think the first matt dievela podcast that I listened to and I like his style and how he kept things to the point.
 ### Quotes from the week📃
-
 
 {{< tweet 1357705406773141509 >}}
 
