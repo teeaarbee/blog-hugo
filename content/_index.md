@@ -27,7 +27,7 @@ header:
     title:
       - WELCOME TO TRB'S BLOG 3.0
     subtitle:
-      - Feel free to explore but remember the site is still under construction 
+      - The site is under construction but that shouldn't stop you from exploring!
     titleColor: 
     titleShadow: true
     titleFontSize: 44

@@ -2,7 +2,7 @@
 title: Week 34 
 date: "2021-02-22"
 description: "Might be falling in the capitalism trap"
-Image:
+image: images/feature1/w34.jpg
 category: Weekly Highlights
 tags:
   - Weekly Blogs 
@@ -49,11 +49,7 @@ This continued as usual this week even when I wasn’t at my home I took my kind
 
 However this week I read a lot more articles and blog posts compared to books.
 
-<img src="link" alt="caption" style="
-max-width: 600px;width: 100%; height: auto; display: block; margin: 10px 0;" >
-
-
-oh also I made a group on goodreads come join maybe
+oh also I made a [group on goodreads]() come join maybe
 
 Or follow me on Goodreads
 
