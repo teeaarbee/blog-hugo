@@ -6,7 +6,7 @@ category: Weekly Highlights
 tags:
   - Weekly Blogs 
   - Recommendations 
-image: images/feature1/oldblog.png
+image: images/feature1/newphone.jpg
 ---
 
 
@@ -134,9 +134,7 @@ https://youtu.be/hrORwk_RZLM?list=LL
 https://youtu.be/8BzZZSgsdUk?list=LL
 https://youtu.be/W3CDMcWlPyM?list=LL
 
-### Creators 🤹🏻
-Did not discover anyone new this week.
-PS: its hard to discover new people when you have turned off yt recommendation feed.
+
 ### Apps 📱 
 No new app this week despite getting a new phone this week I tried to stick to all the old apps that I am used to.
 Let’s see if I come across any new ones.
@@ -160,22 +158,25 @@ Btw the apps that I shared last week were solid af and I found myself heavily re
 
 ### Podcast 🎙
 Did not really listen to any podcast this week.
+
 ### Quotes from the week📃
 
 https://twitter.com/ShaneAParrish/status/1354432289216802817
 
-###Top Memes/Edits from the last week 🐒
+### Memes/Edits from the last week 🐒
 Not only I have added memes from this week but I have updated all the previous week’s ka meme database, will link all of them below for your ease.
 #More memes from the week: [Here](https://bit.ly/trbweek33memes)
 
 Additionally, the links will be updated with their respective blogs for future archival 😌
 
 [Week 32](https://bit.ly/trbweek32meme)
+
 [Week 31](http://bit.ly/trbweek31memes)
+
 [Week30]( http://bit.ly/trbweek30memes)
 
 ----
-##Goal(s) for the next week 🥅
+## Goal(s) for the next week 🥅
 - No specific goal other than following the daily planner which I came up with this week.
 - And also following the new EOD journal template which I made for myself.
 - Also get back to meditation, maybe it’s a good time to try out some new app.

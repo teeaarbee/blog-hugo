@@ -2,7 +2,7 @@
 title: Week 34 
 date: "2021-02-22"
 description: "Might be falling in the capitalism trap"
-Image: '../static/images/check.jpg'
+Image:
 category: Weekly Highlights
 tags:
   - Weekly Blogs 
@@ -116,17 +116,23 @@ Its a paid article for 10rs only but the link i shared is from amazon so its fre
 [Guide on Focus](https://bit.ly/2Nt55DN) by James clear 
 
 This was my 2nd time reading these not to mention i already knew this from his book but i like reading his blogs once in a while it serves as spaced repetition😌
+
 ###VIDEOS 📺
 https://youtu.be/C801UueBeu4?list=LL
+
 https://youtu.be/L-x8DYTOv7w?list=LL
+
 https://youtu.be/mCyLDf22IXg?list=LL
+
 https://youtu.be/ezPvtyY76xc?list=LL
+
 https://youtu.be/waY-27gMJq8?list=LL
+
 https://youtu.be/DzaTOB1ksQs?list=LL
 https://youtu.be/UXr5oDeewGU?list=LL
 https://youtu.be/-bm5uANZCUA?list=LL
 
-###Apps 📱 
+### Apps 📱 
 No new apps this week.
 But go through this if you want any new windows app suggestion
 
@@ -137,12 +143,13 @@ https://youtu.be/TYqh9B1PASo?list=LL
 
 <iframe src="https://open.spotify.com/embed/track/6WsSXAOzm6xpWRivqdt98X" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 XD this got stuck in my head after listening twice in a meme 
-###Podcast 🎙 / Audiobook
+
+### Podcast 🎙 / Audiobook
 Did not listen to any podcast but I did finish the book tools of titan and I quite liked it.
 It had a few chapters where the person mentioned in those came out and read the passages it was a nice audio experience but I would still not recommend the audio version of the book and I would rather suggest the kindle / paperback version of the book.
 And def would not recommend to newbies getting into reading I mean it has v simple and easy language but the people mentioned in the book are few of the greats and it would be actually nice if you know a few of them before you hear about them in the book.
 
-###Quotes from the week📃
+### Quotes from the week📃
 
 https://twitter.com/kunalb11/status/1362287633360056322
 
@@ -152,12 +159,14 @@ https://twitter.com/kunalb11/status/1362287633360056322
 
 ----
 ##Goal(s) for the next week 🥅
+
 Man I don’t even remember the last time I completed my goal and its becoming increasingly hard to keep up with the existing habit and I seem to be falling in negative habit spiral where I have gotten the habit of not doing the goals.
 
 So I will be going a bit tough on myself and try to achieve to 80-100% of my daily goal everyday this week.
 
 Also as I am writing this on a Monday today thus far I have done almost all the habits 😎
 ----
+
 Idk when you guys will be reading this as the error with my blog still hasn’t been fixed but I hope it gets fixed soon and whenever you do I am going to put today’s date [when I am writing] in the blog.
 
 Thanks for reading this week’s blog, hope you found something of value from it.
