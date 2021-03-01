@@ -40,8 +40,6 @@ Again this was a result of me being alone and not having a proper sleep scedule
 
 Practised only on Saturday and obviously found it a bit difficult but I am happy that I totally did not disregard this like the other activities.
 
-<img src="link" alt="caption" style="
-max-width: 600px;width: 100%; height: auto; display: block; margin: 10px 0;" >
 
 -	**READING UPDATE**
 
@@ -49,9 +47,9 @@ This continued as usual this week even when I wasn’t at my home I took my kind
 
 However this week I read a lot more articles and blog posts compared to books.
 
-oh also I made a [group on goodreads]() come join maybe
+oh also I made a [group on goodreads](https://www.goodreads.com/group/show/1150017-meme-community-wale-baccho-ka-group-x1f60e) come join maybe
 
-Or follow me on Goodreads
+Or follow me on [Goodreads](https://www.goodreads.com/user/show/129471955-trb)
 
 
 

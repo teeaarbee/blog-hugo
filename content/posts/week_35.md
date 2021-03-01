@@ -17,7 +17,7 @@ image: 'images/feature1/new blog ss.png'
 
 Finally back after a month!?!
 
-Yes as you might have noticed no blogs came in the month of feb. and I explained the reason behind it in this blog which I just published along with this.
+Yes as you might have noticed no blogs came in the month of feb. and I explained the reason behind it in this blog which [I just published](https://blog.teeaarbee.com/archives/why-does-the-website-look-different/) along with this.
  
 It also has the reason behind the blog looking different so go and read that first and then come back.
  
