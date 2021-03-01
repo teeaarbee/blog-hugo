@@ -59,7 +59,7 @@ Main reason why my run was affected this week is because I went to bed bit late 
 
 I have been getting a full proper sleep but I need to fix the timing.
 
--	-**WORK UPDATE**
+-	**WORK UPDATE**
 
 So like I said there was comparatively less work this week 😌
 
@@ -102,11 +102,12 @@ Also posted few pics from my morning run earlier this week
 
 {{< tweet 1358983681516310529 >}}
 
-##How I improved my blogs 
+## How I improved my blogs 
 😥 
 
-##My Favourites from the Week 
-###Blog/Articles 📑
+## My Favourites from the Week 
+### Blog/Articles 📑
+
 [Why (and How) Amazon Created the Kindle and Changed the Book Industry Forever](https://bit.ly/3rO5Fui)
 
 [Is the world becoming better?](https://bit.ly/3tZc1c6) By [Parash Chopra](https://invertedpassion.com/author/paraschopra/)
@@ -114,6 +115,7 @@ Also posted few pics from my morning run earlier this week
 [Master Move: How Dhirubhai Ambani turned the tables on the Kolkata bear cartel](https://bit.ly/2N4M1eM)
 
 [Change careers like Tarzan](https://sive.rs/tarzan)
+
 ### VIDEOS 📺
 I saw a [sony LIV ad](https://youtu.be/QTCOR8krc2U?list=LL) saying that WWE network is coming to their platform so I took their subscription only to realize that wwe plan requires different additional payment ☠
 So to make use of my subscription I decided to watch scam 1992 and finished it by Sunday.
@@ -171,7 +173,7 @@ Did not really listen to any podcast this week.
 
 ### Quotes from the week📃
 
-https://twitter.com/ShaneAParrish/status/1354432289216802817
+{{< tweet 1354432289216802817 >}}
 
 ### Memes/Edits from the last week 🐒
 Not only I have added memes from this week but I have updated all the previous week’s ka meme database, will link all of them below for your ease.
@@ -198,7 +200,7 @@ If you are a weekly reader and if you read from the same browser/Device then sig
 
 Subscribe to get these blogs delivered to your email inbox
 
-###[SUBSCRIBE HERE](https://teeaarbee.com/#blog)
+### [SUBSCRIBE HERE](https://teeaarbee.com/#blog)
 
 <div id="revue-embed">
 <form action="https://www.getrevue.co/profile/teeaarbee/add_subscriber" method="post" id="revue-form" name="revue-form" target="_blank">
