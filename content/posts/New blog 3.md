@@ -5,6 +5,7 @@ description: "Wait! What? The website looked different before? "
 draft: false
 enableToc: true
 enableTocContent: true
+pinned: true
 tags:
 - updates
 - 
