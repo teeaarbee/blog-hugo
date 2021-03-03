@@ -1,12 +1,18 @@
 ---
-title: Week 31
-date: "2021-01-31"
-image: images/dogepre.jpg
+title: "Week 31"
+date: 2021-01-31
 description: "Bought Crypto for the First time"
-category: Weekly Highlights
+draft: false
+enableToc: true
+enableTocContent: true
 tags:
-  - Weekly Blogs 
-  - Recommendations 
+- Weekly Blogs 
+- Recommendations 
+series:
+-
+categories:
+- Weekly Highlights
+image: images/dogepre.jpg
 ---
 
 ![dogepre.jpg](../../../images/dogepre.jpg)
