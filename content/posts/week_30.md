@@ -2,12 +2,19 @@
 title: Week 30 
 date: "2021-01-24"
 description: "Mini social media detox review"
-cover: '../static/images/pexels-energepiccom-174938.jpg'
-category: Weekly Highlights
+draft: false
+enableToc: true
+enableTocContent: true
 tags:
-  - Weekly Blogs 
-  - Recommendations 
+- Weekly Blogs 
+- Recommendations 
+series:
+-
+categories:
+- Weekly Highlights
+image: 'images/oldimages/pexels-energepiccom-174938.jpg'
 ---
+
 The reason why its called mini is because it was only 5 days long :3
 
 So yes I technically failed but … it is because I didn’t get the magnitude of work that I was supposed to and so it started feeling very empty on Friday, and I ended up logging in from my browser.

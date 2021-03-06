@@ -1,14 +1,19 @@
 ---
-title: Week 34 
+title: "Week 34"
 date: "2021-02-22"
 description: "Might be falling in the capitalism trap"
-image: images/feature1/w34.jpg
-category: Weekly Highlights
+draft: false
+enableToc: true
+enableTocContent: true
 tags:
-  - Weekly Blogs 
-  - Recommendations 
+- Weekly Blogs 
+- Recommendations 
+series:
+-
+categories:
+- Weekly Highlights
+image: images/feature1/w34.jpg
 ---
-
 
 Writing this on a Monday, just like last week and just like last week the error with my blog’s publishing hasn’t been fixed yet. 
 

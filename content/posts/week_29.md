@@ -1,12 +1,20 @@
 ---
-title: Week 29 – First week at work 💼 
+title: Week 29 
 date: "2021-01-17"
-cover: '../static/images/pexels-minervastudio-2897883.jpg'
-category: Weekly Highlights
+description: "First week at work 💼"
+draft: false
+enableToc: true
+enableTocContent: true
 tags:
-  - Weekly Blogs 
-  - Recommendations 
+- Weekly Blogs 
+- Recommendations 
+series:
+-
+categories:
+- Weekly Highlights
+image: 'images/oldimages/pexels-minervastudio-2897883.jpg'
 ---
+
 Well Hello Everyone, This time I am on time 😾
 
 Giving a full fledged review of job wont be possible but I will try and give a first impression hands on ***inserts a tech review video keyword*** 

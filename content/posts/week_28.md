@@ -1,11 +1,18 @@
 ---
-title: Week 28 – New Job 😨 
+title: Week 28   
 date: "2021-01-10"
-cover: '../static/images/work1n.png'
-category: Weekly Highlights
+description: "New Job 😨"
+draft: false
+enableToc: true
+enableTocContent: true
 tags:
-  - Weekly Blogs 
-  - Recommendations 
+- Weekly Blogs 
+- Recommendations 
+series:
+-
+categories:
+- Weekly Highlights
+image: 'images/oldimages/work1n.png'
 ---
 
 Hi this last week was a lot like 
@@ -89,7 +96,7 @@ But for now I am excited to start working from tomorrow and here’s me hoping t
 
 Will share my 1st week’s experience next week and will also be able to predict how much time I will be able to dedicate to other things. 
 
-##Thoughts from the past week
+##  Thoughts from the past week
 Seeing my mood go from bad to normal over the course of the week I kinda felt a bit confused about everything. 
 
 But one thing is for sure that good and bad moods are very temporary, However the actions that I take during those will have its consequences long after moods are gone. 
@@ -98,11 +105,11 @@ Idk how to explain my confused thoughts from the week maybe if I had written it 
 
 Will make sure I write it everyday from next week on. 🤧
 
-##Opinions 
+##  Opinions 
 Small creators should not care if their content is valuable or not because they are just starting out and they can only learn to provide value by doing it in the first place so yes they will have to make shit content now to provide value in the future.
 
 But still they should aim to provide value, as much as they can.
-##Social Media updates 
+##  Social Media updates 
 
 https://twitter.com/teeaarbee/status/1347186571963887620
 
@@ -114,18 +121,18 @@ I also feel quite privileged to have such a number because I had gained like 600
 
 Most people start with like 20-30 followers and I don’t even remember having those numbers in my current twitter account.
 
-##Active Side Project update
+##  Active Side Project update
 So as you might be knowing my job starts tomorrow and so I took this week kinda off from editing to gear myself a bit more creatively.
 
 I will get back to working on meme music mashup from Saturday. 
 
 And will share the new working routine around it next week.
-##My Favourites from the Week 
-###Blog/Articles 📑
+##  My Favourites from the Week 
+###  Blog/Articles 📑
 [No More "Struggle Porn"](https://kutt.it/pGUJvB)
 By Nat Eliason
 
-###VIDEOS 📺
+###  VIDEOS 📺
 
 https://youtu.be/rGNa1nl3X4U?list=LL
 
@@ -156,7 +163,7 @@ I found him via his blog and then I watched his yt videos and found them to be v
 
 Do checkout his blogs if you are into reading.
 
-###Apps 📱 
+###  Apps 📱 
 > [Signal](https://kutt.it/WbicHt)
 
 I was actually going to recommend this like 3-4 months ago but then didn’t feel like as yall wouldn’t take me seriously but look how things turned out to be now
@@ -167,7 +174,7 @@ https://twitter.com/jack/status/1348139031599595522
 
 <iframe width="200" height="50" src="https://www.youtube.com/embed/EIsRH5U3Rok" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-###Songs 🎶
+###  Songs 🎶
 
 <iframe src="https://open.spotify.com/embed/track/61IEe4ujPKOU7OIyubydfz" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
@@ -185,13 +192,13 @@ They are going to delete this song because its on top charts and its way too edg
 <iframe src="https://open.spotify.com/embed/track/5UivuAWteghGcxElCwX7Pk" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 
-###Podcast 🎙
+###  Podcast 🎙
 Didn’t listen to any podcast as I was busy listening to 
 <br> [Tools of Titans: The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class Performers Audible Logo Audible Audiobook – Unabridged](https://amzn.to/2K5MUm2)
 
 Oh and yes this is my 1st audio book of the year… planning to finish this by end of jan.
 
-###Quotes from the week📃
+###  Quotes from the week📃
 
 Not a single quote but a series of good tweets 
 
@@ -199,12 +206,12 @@ https://twitter.com/warikoo/status/1347435370271690754
 
 Came across this Ankur Warikoo recently, Thanks to [@Anosher](https://www.youtube.com/c/Anosher/videos), Looking forward to see more of his stuff.
 
-###Memes/Edits from the last week 🐒
+###  Memes/Edits from the last week 🐒
 
 Very tired rn plus its already late [11:15pm] 🥶 
 <br>Will update memes here tomorrow check it out if you want for now watch the recommended yt videos maybe 😤
 
-###Update: Finally added the memes on 16/01/21 XD: [Here](http://bit.ly/trbweek28memes)
+###  Update: Finally added the memes on 16/01/21 XD: [Here](http://bit.ly/trbweek28memes)
 ----
 
 Also I forgot to share this podcast that I did with [@Anosher](https://www.youtube.com/c/Anosher/videos) 2 weeks ago XD 
@@ -214,7 +221,8 @@ Also I forgot to share this podcast that I did with [@Anosher](https://www.youtu
 https://youtu.be/2E8EeBZnvDA
 
 ----
-##Goal(s) for the next week 🥅
+
+##   Goal(s) for the next week 🥅
 -	Getting all habits back to track
 -	And adjusting them with my new work life which is going to start from tomorrow.
 -	Also writing at least 1500 words throughout the week.

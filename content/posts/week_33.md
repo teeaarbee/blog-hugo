@@ -2,13 +2,18 @@
 title: Week 33 
 date: "2021-02-15"
 description: "Got a new phone 📱 "
-category: Weekly Highlights
+draft: false
+enableToc: true
+enableTocContent: true
 tags:
-  - Weekly Blogs 
-  - Recommendations 
+- Weekly Blogs 
+- Recommendations 
+series:
+-
+categories:
+- Weekly Highlights
 image: images/feature1/newphone.jpg
 ---
-
 
 I am writing this on 15th of feb instead of 14th because my last blog which I wrote on 7th hasn’t been published yet! Thanks to some technical error 😔 
 
