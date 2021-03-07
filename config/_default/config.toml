@@ -53,4 +53,4 @@ googleAnalytics = "UA-168983239-1"
   series = "series"
 
  [permalinks]
-  posts = "archives/:title" 
+  posts = "archives/:filename" 

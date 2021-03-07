@@ -22,7 +22,7 @@
         </div>
         {{ partial "search/search-result-desktop" . }}
     </div>
-
+    <!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "bfc9d248e4964508952d36bbdd8ee1d2", "spa": true}'></script><!-- End Cloudflare Web Analytics -->
     {{ if $.Param "enableSidebar" }}
         <aside class="list__sidebar {{ if eq ($.Param "sidebarPosition") "left" }}l{{ else }}r{{ end }}" data-dir="{{ $.Param "languagedir" | default "ltr" }}">
             {{ partial "sidebar/sidebar-home" . }}
