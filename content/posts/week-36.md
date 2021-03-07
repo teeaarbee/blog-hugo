@@ -12,7 +12,7 @@ series:
 -
 categories:
 - Weekly Highlights
-image: images/feature1/mykindle.jpeg
+image: https://i.imgur.com/Ci8cDQv.jpg
 ---
 
 
@@ -78,7 +78,7 @@ So I asked for suggestions on insta and got a lot of dms
 ![Ig story stats](https://i.imgur.com/m0T9oUg.png)
 By the time the story expired it has like 1.8k views and 122 replies 🥶
 
-Most of it was Nerf gun, RC copter, Hotwheels, Action figures, Beyblade and Barbie Doll House 🤭🤭
+Most of it was *Nerf gun, RC copter, Hotwheels, Action figures, Beyblade and Barbie Doll House* 🤭🤭
 I don’t really have enough money to mindlessly spend on these but these are surely going to my Wishlist and I will def. buy them in the future 😌🤲
 
 ## Opinions 
@@ -96,11 +96,11 @@ And usual twitter stuff
 ![Says a lot about society meme](https://i.imgur.com/fLWEF4E.png)
 
 ## How I improved my blogs 
-Started sending email newsletter seriously.
+Started sending [email newsletter](http://newsletter.teeaarbee.com/) seriously.
 
 If you haven’t check your emails then you can read them online [Here](http://newsletter.teeaarbee.com/) 
 
-And if you subscribed to it then check the promotion tab of your email and move it to primary and maybe mark it as imp. 
+And if you **subscribed** to it then check the promotion tab of your email and move it to primary and maybe mark it as imp. 
 
 Idk how else to trick gmail into believing that I am not selling anyrhing 😣
 
@@ -187,6 +187,10 @@ So I don’t feel like keeping a goal this week, Will just try to improve chup c
 However I do feel very optimistic about the coming week and hopefully this will help me in getting somewhat back to my usual habit streaking form.
 
 ----
+
+Also check your email for the newsletter that i sent this week! 
+
+It contains a bit more part of this blog, if you arent subscribed to my email newsletters then you can read it [here](http://newsletter.teeaarbee.com/)
 
 Thanks for reading this week’s blog, hope you found something of value from it.
 
