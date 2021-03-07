@@ -64,4 +64,6 @@ For now If you want to see how my blogs before this you can use the [wayback mac
 
 Aight that’s about it for this short update blog. 
 
+Update: You can check old blog [here](https://blog-teeaarbee.vercel.app/)
+
 Thank you for taking your time to read this one 
