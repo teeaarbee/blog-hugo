@@ -15,7 +15,6 @@ categories:
 image: https://i.imgur.com/Ci8cDQv.jpg
 ---
 
-
 ### New month same old shit
 Its around 10:30pm of a nice Saturday night, I should have been asleep by now but here I am writing the blog because I really felt like writing also because I kinda want to make Sunday a bit less stressful.
 
@@ -145,9 +144,9 @@ PS: I posted a meme on insta as a joke I mean varun is in my whatsapp I didn’t
 
 ### Songs 🎶
 <iframe src="https://open.spotify.com/embed/album/2u75PJw6CSXgJ9GlA8SRsp" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-
+<br>
 <iframe src="https://open.spotify.com/embed/album/3bUkuIfrB6cOhuHr9R2Zvw" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-
+<br>
 <iframe src="https://open.spotify.com/embed/track/5YRmAigOIXQRUcT5hPCLLB" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 ### Podcast 🎙
