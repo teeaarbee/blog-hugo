@@ -160,7 +160,7 @@ commento = false
   email = "mailto:contact@teeaarbee.com"
   phone = ""
   goodreads = "https://www.goodreads.com/user/show/129471955-trb/?ref=blog.teeaarbee.com"
-  facebook = "https://www.facebook.com/teeaarbee/?ref=blog.teeaarbee.com"
+  facebook = ""
   twitter = "https://www.twitter.com/teeaarbee?ref=blog.teeaarbee.com"
   github = ""
   stack-overflow = ""
@@ -209,6 +209,8 @@ commento = false
   name = "pocket"
 [[share]]
   name = "whatsapp"
+[[share]]
+  name = "google"
 
 [[footerLinks]]
   name = ""
