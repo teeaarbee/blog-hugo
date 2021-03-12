@@ -97,7 +97,6 @@ I don’t know if the next one will be similar or different but I want to expand
 
 To find out what the next one will be you can subscribe below to my email newsletters which I send every Sunday along with a weekly blog.
 
-[SUBSCRIBE HERE](https://teeaarbee.com/#blog)
 <div id="revue-embed">
 <form action="https://www.getrevue.co/profile/teeaarbee/add_subscriber" method="post" id="revue-form" name="revue-form" target="_blank">
     <div class="revue-form-group">
@@ -109,6 +108,6 @@ To find out what the next one will be you can subscribe below to my email newsle
     </div>
 </form>
 </div>
-
+<br>
 Oh and also I will be making a lot of changes to this blog as time progresses to make it more easily digestible. 
 So if this is the first time you are reading this bookmark it or add it to your pocket/Instapaper and revisit it sometimes in the future. 
