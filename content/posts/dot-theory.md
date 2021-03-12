@@ -97,5 +97,18 @@ I don’t know if the next one will be similar or different but I want to expand
 
 To find out what the next one will be you can subscribe below to my email newsletters which I send every Sunday along with a weekly blog.
 
+[SUBSCRIBE HERE](https://teeaarbee.com/#blog)
+<div id="revue-embed">
+<form action="https://www.getrevue.co/profile/teeaarbee/add_subscriber" method="post" id="revue-form" name="revue-form" target="_blank">
+    <div class="revue-form-group">
+    <label for="member_email">Email address: </label>
+    <input class="mb-24 revue-form-field" placeholder="Your email address..." type="email" name="member[email]" id="member_email" style="width: 250px;padding: 8px;border-radius: 5px;font-family: inherit;border: 0;height: 40px;margin: 8px;">
+    <div class="revue-form-actions" style="display: inline-block;">
+        <input type="submit" class="button__large" value="Subscribe" name="member[subscribe]" id="member_submit" style="border: 0;height: 40px;width:120px;border-radius: 5px;background:#126710;color:#ffffff;cursor:pointer;margin: 8px;">
+    </div>
+    </div>
+</form>
+</div>
+
 Oh and also I will be making a lot of changes to this blog as time progresses to make it more easily digestible. 
 So if this is the first time you are reading this bookmark it or add it to your pocket/Instapaper and revisit it sometimes in the future. 
