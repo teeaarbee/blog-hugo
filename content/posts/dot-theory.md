@@ -58,7 +58,7 @@ I would state the same but I would like to reflect on a different perspective of
 
 Some consider the ability to connect dots as intelligence/ Having more IQ.
 
-Now I do party agree with the intelligence statement, but not so much with the IQ as I have spoken a lot against IQ before and also about how anyone with a specific set of dots can ace an IQ test, which makes it useless to conclude anything along the lines of intelligence.
+Now I do partly agree with the intelligence statement, but not so much with the IQ as I have spoken a lot against IQ before and also about how anyone with a specific set of dots can ace an IQ test, which makes it useless to conclude anything along the lines of intelligence.
 
 ## My different take on connecting dots
 
