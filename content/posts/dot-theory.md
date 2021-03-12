@@ -45,7 +45,7 @@ Most jobs need you to have a minimum required set of dots before you begin worki
 -	**Spend time and energy** on any particular task and you have your dots.
 -	It is *impossible to spend time and energy and not get any dots* in return.
 
-So in a way, *neuroscientifically* you can say dots are an **output of neurons firing** in our brain, and The higher the neuron firing rate, the stronger the connections that they build.
+So in a way, *neuroscientifically* you can say dots are an **output of neurons firing** in our brain, and the more a particular set of neurons fire, the stronger the connections that they build become.
 
 This brings me to my next point
 
