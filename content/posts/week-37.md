@@ -1,7 +1,7 @@
 ---
 title: "Week 37"
 date: "2021-03-15"
-description: "In this blog I talk about getting a haircut after 13months, starting a new habit and prioritizing sleep in the upcoming week"
+description: "In this blog I wrtie about getting a haircut after 13months, starting a new habit and prioritizing sleep in the upcoming week"
 draft: false
 enableToc: true
 enableTocContent: true
